@@ -1,0 +1,11 @@
+Expense Tracker App using Data Science - Insights Report
+============================================================
+
+1. Total annual spend is INR 335,355.41 across 105 cleaned transactions.
+2. Average transaction value is INR 3,193.86.
+3. Highest spending category is Rent with INR 194,488.11.
+4. Peak monthly spend occurred in May with INR 61,377.08.
+5. Most used payment method by value is Debit Card with INR 120,671.44.
+6. Essential expenses contribute 81.64% of spending, while non-essential expenses contribute 18.36%.
+7. The highest spending weekday is Thursday with INR 83,817.92.
+8. Biggest budget breach appears in May for Rent, overshooting by INR 32,829.13.

@@ -1,0 +1,113 @@
+transaction_id,date,category,amount,payment_method,city,is_essential
+EXP00001,2025-01-21,Food,373.65,Net Banking,,True
+EXP00002,2025-08-11,Healthcare,814.81,UPI,,True
+EXP00003,2025-12-22,Education,5463.8,Debit Card,Mumbai,True
+EXP00004,2025-11-27,Travel,2311.7,Credit Card,Delhi,False
+EXP00005,2025-08-28,Entertainment,1621.31,Cash,Delhi,False
+EXP00006,2025-12-29,Miscellaneous,755.03,Credit Card,Hyderabad,False
+EXP00007,2025-10-28,Miscellaneous,1666.41,UPI,Mumbai,False
+EXP00008,2025-06-23,Subscriptions,963.83,Net Banking,Bengaluru,False
+EXP00009,2025-01-11,Travel,1973.16,Cash,,False
+EXP00010,2025-03-15,Food,754.59,Cash,Pune,True
+EXP00011,2025-02-14,Entertainment,581.33,Net Banking,Hyderabad,False
+EXP00012,2025-11-11,Rent,13160.41,Debit Card,Chennai,True
+EXP00013,2025-08-19,Healthcare,3085.97,,Hyderabad,True
+EXP00014,2025-12-08,Travel,3725.29,UPI,Bengaluru,False
+EXP00015,2025-04-26,Education,4373.17,Credit Card,Chennai,True
+EXP00016,2025-08-04,Utilities,862.92,Credit Card,Hyderabad,True
+EXP00017,2025-11-19,Food,216.67,UPI,Chennai,True
+EXP00018,2025-02-13,Shopping,2579.73,UPI,Hyderabad,False
+EXP00019,2025-08-07,Rent,19044.85,UPI,Bengaluru,True
+EXP00020,2025-02-05,Entertainment,1778.92,Cash,Chennai,False
+EXP00021,2025-06-08,Food,538.35,Net Banking,Bengaluru,True
+EXP00022,2025-02-27,Education,5882.72,UPI,,True
+EXP00023,2025-05-29,Rent,17336.5,Debit Card,Chennai,True
+EXP00024,2025-11-03,Subscriptions,619.66,Credit Card,Pune,False
+EXP00025,2025-11-11,Subscriptions,116.15,UPI,Chennai,False
+EXP00026,2025-06-02,Food,808.3,Net Banking,Mumbai,True
+EXP00027,2025-10-19,Travel,2338.98,,Bengaluru,False
+EXP00028,2025-12-13,Food,513.83,,Delhi,True
+EXP00029,2025-04-13,Travel,1987.35,UPI,Mumbai,False
+EXP00030,2025-11-02,Food,473.11,UPI,Bengaluru,True
+EXP00031,2025-06-24,Shopping,1239.54,Net Banking,Chennai,False
+EXP00032,2025-10-21,Travel,388.15,UPI,Chennai,False
+EXP00033,2025-05-21,Travel,3345.75,,Chennai,False
+EXP00034,2025-10-28,Subscriptions,624.67,UPI,Hyderabad,False
+EXP00035,2025-01-10,Shopping,1364.75,Credit Card,Delhi,False
+EXP00036,2025-08-18,Food,763.18,Cash,Mumbai,True
+EXP00037,2025-04-25,Food,815.74,Debit Card,Mumbai,True
+EXP00038,2025-07-27,Travel,1151.14,,Mumbai,False
+EXP00039,2025-01-15,Food,744.55,UPI,Bengaluru,True
+EXP00040,2025-04-26,Education,5855.82,Credit Card,Chennai,True
+EXP00041,2025-06-08,Food,645.73,Cash,Bengaluru,True
+EXP00042,2025-02-24,Entertainment,880.93,Cash,Mumbai,False
+EXP00043,2025-10-12,Subscriptions,496.3,Net Banking,Chennai,False
+EXP00044,2025-01-10,Healthcare,2860.24,Net Banking,Delhi,True
+EXP00045,2025-01-20,Education,5957.65,Net Banking,Chennai,True
+EXP00046,2025-04-09,Miscellaneous,1344.43,UPI,Mumbai,False
+EXP00047,2025-12-22,Education,1518.45,UPI,Hyderabad,True
+EXP00048,2025-02-28,Rent,19340.61,Debit Card,Chennai,True
+EXP00049,2025-01-14,Utilities,433.89,UPI,Chennai,True
+EXP00050,2025-04-04,Entertainment,461.81,Credit Card,Hyderabad,False
+EXP00051,2025-09-17,Food,510.04,Credit Card,,True
+EXP00052,2025-08-15,Healthcare,430.21,Debit Card,Bengaluru,True
+EXP00053,2025-05-25,Food,473.7,Cash,Hyderabad,True
+EXP00054,2025-01-26,Education,641.29,Debit Card,Chennai,True
+EXP00055,2025-04-23,Shopping,2629.65,UPI,Chennai,False
+EXP00056,2025-07-03,Travel,1400.68,Credit Card,Bengaluru,False
+EXP00057,2025-10-16,Rent,12926.02,UPI,Hyderabad,True
+EXP00058,2025-10-11,Travel,2378.28,Net Banking,,False
+EXP00059,2025-01-22,Entertainment,1619.61,UPI,Mumbai,False
+EXP00060,2025-05-02,Shopping,1320.74,Net Banking,Chennai,False
+EXP00061,2025-11-19,Education,5505.35,Debit Card,Chennai,True
+EXP00062,2025-05-23,Food,838.3,Credit Card,,True
+EXP00063,2025-11-17,Utilities,1690.14,UPI,Delhi,True
+EXP00064,2025-12-18,Food,278.23,Debit Card,Chennai,True
+EXP00065,2025-05-15,Rent,12832.19,UPI,Chennai,True
+EXP00066,2025-05-31,Food,533.65,Credit Card,Bengaluru,True
+EXP00067,2025-05-15,Subscriptions,254.47,Credit Card,Mumbai,False
+EXP00068,2025-05-07,Rent,20660.44,Cash,Delhi,True
+EXP00069,2025-07-29,Food,231.41,UPI,Chennai,True
+EXP00070,2025-08-10,Food,838.42,Cash,Mumbai,True
+EXP00071,2025-05-04,Food,822.8,UPI,Bengaluru,True
+EXP00072,2025-08-22,Rent,16222.19,Debit Card,Hyderabad,True
+EXP00073,2025-08-13,Food,452.92,Debit Card,Chennai,True
+EXP00074,2025-03-20,Travel,2010.2,UPI,Chennai,False
+EXP00075,2025-12-16,Subscriptions,578.7,Credit Card,Chennai,False
+EXP00076,2025-07-24,Education,3625.53,UPI,Hyderabad,True
+EXP00077,2025-10-31,Food,434.4,UPI,Delhi,True
+EXP00078,2025-06-06,Rent,16919.2,Debit Card,Chennai,True
+EXP00079,2025-10-18,Utilities,2891.95,UPI,Chennai,True
+EXP00080,2025-05-09,Travel,2228.12,Credit Card,Bengaluru,False
+EXP00081,2025-04-16,Rent,21562.45,Debit Card,Delhi,True
+EXP00082,2025-05-19,Healthcare,730.42,UPI,Hyderabad,True
+EXP00083,2025-12-03,Travel,2455.88,Credit Card,Hyderabad,False
+EXP00084,2025-10-02,Entertainment,1713.79,Debit Card,Delhi,False
+EXP00085,2025-02-19,Healthcare,3414.78,UPI,,True
+EXP00086,2025-04-20,Entertainment,469.42,Cash,Hyderabad,False
+EXP00087,2025-04-02,Food,673.72,Credit Card,Hyderabad,True
+EXP00088,2025-07-21,Utilities,1592.56,Credit Card,Bengaluru,True
+EXP00089,2025-11-23,Food,377.61,Cash,Pune,True
+EXP00090,2025-11-09,Healthcare,2807.01,UPI,Chennai,True
+EXP00091,2025-06-30,Travel,1046.61,Credit Card,Bengaluru,False
+EXP00092,2025-07-26,Rent,12077.26,Net Banking,Chennai,True
+EXP00093,2025-07-26,Entertainment,1630.53,,Mumbai,False
+EXP00094,2025-09-21,Education,1166.6,UPI,Delhi,True
+EXP00095,2025-12-14,Travel,3634.95,Credit Card,Chennai,False
+EXP00096,2025-07-28,Food,828.75,Debit Card,Hyderabad,True
+EXP00097,2025-07-08,Healthcare,825.88,Cash,Bengaluru,True
+EXP00098,2025-10-05,Travel,769.9,Credit Card,Chennai,False
+EXP00099,2025-11-18,Food,515.06,Credit Card,Mumbai,True
+EXP00100,2025-01-28,Rent,12405.99,UPI,Hyderabad,True
+EXP00001,2025-01-21,Food,373.65,Net Banking,Bengaluru,True
+EXP00039,2025-01-15,Food,744.55,UPI,Bengaluru,True
+EXP00034,2025-10-28,Subscriptions,624.67,,Hyderabad,False
+EXP00088,2025-07-21,Utilities,1592.56,,Bengaluru,True
+EXP00017,2025-11-19,Food,216.67,UPI,Chennai,True
+EXP00089,2025-11-23,Food,377.61,Cash,Pune,True
+EXP00077,2025-10-31,Food,434.4,UPI,,True
+EXP00054,2025-01-26,Education,641.29,Debit Card,Chennai,True
+EXP00057,2025-10-16,Rent,12926.02,UPI,Hyderabad,True
+EXP00015,2025-04-26,Education,4373.17,Credit Card,Chennai,True
+EXP00084,2025-10-02,Entertainment,1713.79,Debit Card,Delhi,False
+EXP00043,2025-10-12,Subscriptions,496.3,,Chennai,False
