@@ -205,17 +205,6 @@ The complete logic is in `src/expense_tracker.py`. It includes:
 7. Create charts.
 8. Generate the final insights report.
 
-### What screenshots to take
-- raw data preview
-- cleaned data preview
-- category-wise bar chart
-- monthly trend chart
-- payment method pie chart
-- monthly heatmap
-- budget breach chart
-- final terminal output
-
-
 ## 9. How to Run Project
 
 ```powershell
